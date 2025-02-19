@@ -31,7 +31,7 @@
 本项目依赖以下后端接口：
 
 ### 1. 版面检测接口(CPP后端)
-
+**后端项目:** https://github.com/xstongxue/TensorRT-Alpha-Plus 
 - **URL:** `http://192.168.4.9:8888/pic_infer`
 - **方法:** POST
 - **请求参数 (FormData):**
@@ -59,7 +59,7 @@
     - `confidence`:  置信度。
 
 ### 2. OCR 接口(Python后端)
-
+**后端项目:** https://github.com/xstongxue/OCR_API
 - **URL:** `http://192.168.4.9:8899/OCR-QWen2.5-7B-VL`
 - **方法:** POST
 - **请求参数 (JSON):**
