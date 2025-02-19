@@ -1,5 +1,4 @@
 <file path="README.md">
-# 高效的文档版面分析系统
 
 ## 简介
 
